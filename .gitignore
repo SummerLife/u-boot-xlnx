@@ -89,3 +89,4 @@ GTAGS
 *~
 \#*#
 !u-boot*
+!spl/
